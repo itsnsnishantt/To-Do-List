@@ -1,8 +1,8 @@
 
-To Do List Application
-Teck Stack Used:HTML, CSS, JAVASCRIPT, BOOTSTRAP
+# To Do List Application
+# Teck Stack Used:HTML, CSS, JAVASCRIPT, BOOTSTRAP
 
-IDE Used: VS Code
+# IDE Used: VS Code
 
 # To-Do List Application
 
